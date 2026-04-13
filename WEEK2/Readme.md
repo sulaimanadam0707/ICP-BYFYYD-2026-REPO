@@ -44,10 +44,4 @@ A **production-ready static website** that is:
 - Highly available  
 - Secure (HTTPS enabled)  
 - Globally optimized for performance  
-- Accessible via a custom domain  
-
----
-
-## Acknowledgment
-
-Developed as part of the **InternCareer Path Self-Learning Internship Program**.
+- Accessible via a custom domain.

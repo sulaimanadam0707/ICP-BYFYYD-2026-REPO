@@ -1,4 +1,4 @@
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 This project implements a serverless API using AWS cloud services.
 

@@ -19,6 +19,7 @@ The static website is now live and globally distributed using **Amazon CloudFron
 
 - **Security:**  
   **Origin Access Control (OAC)** is implemented to ensure the S3 bucket is only accessible through CloudFront.
+  https://d1kot5vofth41r.cloudfront.net
 
 ---
 

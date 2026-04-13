@@ -21,8 +21,7 @@ This repository contains the end-to-end documentation, architecture diagrams, an
 **Lesson:** Using the **AWS Pricing Calculator** taught me that small architectural choices (like choosing **HTTP APIs** over REST APIs) can save significant costs at scale. My entire setup costs only **$0.19/month**.
 ## 📈 Final Cost Analysis
  * **Total Monthly Estimate:** $0.19
- * **Detailed Report:** View Week 6 Cost Analysis
- * **Official AWS Quote:** Link to Estimate
+ * **Detailed Report:** View Week 6 Cost Analysis for a CSV file.
 ## 🛠️ Skills Demonstrated
  * **Cloud Architecture:** Designing multi-service workflows.
  * **Security:** IAM Policies, Bucket Policies, and OAC.
